@@ -1,0 +1,17 @@
+{
+  "name": "jongjoo",
+  "profiles": [
+    "dev"
+  ],
+  "label": null,
+  "version": "0.0.1",
+  "state": null,
+  "propertySources": [
+    {
+      "name": "https://github.com/jongjoo/SpringCloudConfig-12th/config-dev.yml",
+      "source": {
+        "who.am.i": "dev-jongjoo"
+      }
+    }
+  ]
+}
