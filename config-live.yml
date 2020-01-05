@@ -1,17 +1,5 @@
-{
-  "name": "jongjoo",
-  "profiles": [
-    "live"
-  ],
-  "label": null,
-  "version": "0.0.1",
-  "state": null,
-  "propertySources": [
-    {
-      "name": "https://github.com/jongjoo/SpringCloudConfig-12th/config-live.yml",
-      "source": {
-        "who.am.i": "dev-jongjoo"
-      }
-    }
-  ]
-}
+who:  
+   profile: dev-jongjoo
+   said:
+    first: Hello
+    second: world
